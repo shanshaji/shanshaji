@@ -4,15 +4,17 @@ My name is Shan Shaji. I am an end to end product developer with immense passion
 
 - 🔭 I’m currently working on Tank vs Zombie Game in Ruby
 - 🌱 I’m currently reading clean code
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on building games, apps
 - 💬 Ask me about Ruby and Javascript
 - 📫 How to reach me: https://shanshaji.github.io/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
 
 ## &#x270d; Blog & Writing
 
 You can find some of the articles i wrote in [Medium](https://shanshaji.medium.com)
+
+## Stack Overflow
+[![Shan Shaji StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9563947&theme=dark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21")](https://stackoverflow.com/users/9563947/shan)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -24,7 +26,7 @@ You can find some of the articles i wrote in [Medium](https://shanshaji.medium.c
 </a>
 
 <a href="https://github.com/shanshaji/table-boy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanshaji&repo=table_boy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanshaji&repo=table-boy&title_color=3B83EC&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
