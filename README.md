@@ -2,7 +2,7 @@
 
 My name is Shan Shaji. I am an end to end product developer with immense passion towards Ruby and Js.
 
-- 🔭 I’m currently working on Tank vs Zombie Game in Ruby
+- 🔭 I’m currently working on building a Tank vs Zombie Game in Ruby
 - 🌱 I’m currently reading clean code
 - 👯 I’m looking to collaborate on building games, apps
 - 💬 Ask me about Ruby and Javascript
